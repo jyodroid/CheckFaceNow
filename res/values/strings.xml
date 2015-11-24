@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CheckFaceNow</string>
+    <string name="menu_settings">Settings</string>
+    <string name="boton_identifique">Identifique</string>
+    <string name="title_activity_detalles">Detalles de la persona</string>
+    <string name="boton_identificar">Identificar</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="desc">Rostro de icono</string>
+    <string name="title_activity_wsconection">WSConectionActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cargador">..Cargando Datos</string>
+    <string name="obteniendo_informacion">Obteniendo información</string>
+    <string name="menu_ingresar">Ingresar</string>
+    <string name="campo_usuario">Ingrese su usuario asignado</string> 
+    <string name="campo_pass">Ingrese su contraseña</string>
+    <string name="ingreso_app">Por favor ingrese a la aplicación</string>    
+
+</resources>
