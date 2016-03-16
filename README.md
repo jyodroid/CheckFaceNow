@@ -10,7 +10,7 @@ alt="CheckFaceNow" width="240" height="180" border="10" /></a>
 ### Version
 0.0.1 alpha
 
-### Stuff
+### Staff
 - Duban cano -- Web developer
 - Miguel Baquero -- Infrastructure and architecture
 - John Tangarife -- Android/JavaEE developer and architecture
