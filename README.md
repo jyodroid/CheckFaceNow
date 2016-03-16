@@ -14,3 +14,6 @@ alt="CheckFaceNow" width="240" height="180" border="10" /></a>
 - Duban cano -- Web developer
 - Miguel Baquero -- Infrastructure and architecture
 - John Tangarife -- Android/JavaEE developer and architecture
+
+### License
+Project under [MIT License](https://opensource.org/licenses/MIT)
